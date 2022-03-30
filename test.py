@@ -1,8 +1,11 @@
-def newFunc():
-    print("newFuncline1")
-    print("newFuncline1")
-    print("newFuncline2")
-    print("newFuncline3")
+
+def anotherNewFunc():
+    print("another line")
+    print("another line2")
+    print("another line3")
+    print("another line4")
+
+
 
 
 def func1():
