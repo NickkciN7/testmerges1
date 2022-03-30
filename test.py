@@ -1,6 +1,8 @@
 def version5NewFunc():
     print("and another new line")
     print("and another new line2")
+    print("and another new line3")
+    print("and another new line4")
 
 
 def newestFunc():
