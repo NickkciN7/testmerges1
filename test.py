@@ -1,6 +1,8 @@
 def newFunc():
     print("newFuncline1")
     print("newFuncline1")
+    print("newFuncline2")
+    print("newFuncline3")
 
 
 def func1():
