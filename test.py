@@ -1,3 +1,7 @@
+def newestFunc2():
+    print("yet another func")
+
+
 def newestFunc():
     print("newest func line")
     print("newest func line2")
